@@ -147,12 +147,16 @@ The experience reinforced an important principle in machine learning: **before b
 
 ## Skills I'm Developing
 
-- Machine Learning Fundamentals
-- ML Problem Framing
-- Python Notebooks
-- Git and GitHub
-- AI Assisted Problem-Solving
-- Critical Evaluation of AI Outputs
+- **Machine Learning:** ML problem framing, decision trees, model evaluation, and data leakage prevention.
+- **Python & Data Analysis:** Python, Pandas, SQL, and DuckDB for data exploration, aggregation, and validation.
+- **Data Engineering Fundamentals:** Data contracts, schema inspection, data quality checks, and feature preparation.
+- **AI Assisted Problem Solving:** Using AI tools to understand technical concepts, investigate errors, and improve my workflow while critically evaluating their outputs.
+- **Data Driven Decision Making:** Interpreting results, questioning assumptions, identifying data limitations, and communicating findings responsibly.
+- **Developer Tools:** Google Colab, Jupyter Notebooks, Git, GitHub, and Hugging Face Datasets.
+- **Responsible AI:** Understanding data leakage, recognizing limitations, and distinguishing observed relationships from causal claims.
+- **Technical Communication:** Documenting projects, explaining technical decisions, and presenting findings clearly.
+
+I'm building these skills through hands on projects, practical assignments, independent study, and continuous experimentation.
 
 ##  My Learning Philosophy
 
