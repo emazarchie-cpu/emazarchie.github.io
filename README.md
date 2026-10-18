@@ -141,6 +141,90 @@ The experience reinforced an important principle in machine learning: **before b
 ---
 
 **Disclaimer:** This case study describes my work on the ML-04 internship assignment using the FlyRank internship warehouse. The reported figures are descriptive validation results and do not represent a deployed system or demonstrated improvement in search performance.
+
+
+# Case Study 3: Blue Nike Hat Predictor AI
+
+**Project Type:** Personal Machine Learning Project  
+**Role:** AI / Machine Learning Project Developer  
+**Tools:** Python, Google Colab, Pandas, Scikit-learn  
+**Model:** Logistic Regression  
+**Date:** October 2026
+
+## 1. Problem
+
+I wanted to explore how machine learning could be used to predict a person's behaviour using structured data.
+
+For this project, I created a simple prediction system to estimate whether I would wear a blue Nike hat under different circumstances. I considered factors such as weather, hat availability, activity, outfit compatibility, mood, and Nike preference.
+
+The main challenge was to transform these observations into a machine-learning problem, train a model to identify patterns, and evaluate whether it could make predictions on previously unseen data.
+
+## 2. Work Done
+
+I developed a supervised machine learning workflow in Google Colab using Python.
+
+**Data collection:** I created a dataset containing 20 observations. Each observation included contextual features and a binary target variable indicating whether the hat was worn (`1`) or not worn (`0`).
+
+**Data preparation:** I loaded the dataset into Pandas and examined its structure, missing values, and target distribution. The dataset contained 10 positive outcomes and 10 negative outcomes.
+
+**Model development:** I implemented a Logistic Regression classifier using Scikit-learn. I prepared the categorical and numerical features for training and separated the dataset into training and testing subsets.
+
+**Model evaluation:** I trained the model on 15 observations and evaluated it on five held out observations. I used test accuracy, a classification report, and a confusion matrix to assess its predictions.
+
+**Prediction:** I supplied a new scenario to the trained model, including weather, activity, hat availability, outfit compatibility, and mood, to obtain a probability estimate for wearing the hat.
+
+Throughout the process, I used the project to practise the complete machine-learning workflow, from collecting data and preparing features to training, evaluation, and prediction.
+
+## 3. Results and Outcomes
+
+The initial model produced the following results:
+
+| Evaluation Metric | Result |
+|---|---:|
+| Total observations | 20 |
+| Training observations | 15 |
+| Testing observations | 5 |
+| Test accuracy | 80% |
+| Correct test predictions | 4 out of 5 |
+| Predicted probability of wearing the hat | 77.2% |
+
+For the test scenario, the model estimated a 77.2% probability of wearing the blue Nike hat and classified the outcome as **likely to wear the hat**.
+
+The initial evaluation demonstrated that I could build and execute a complete supervised-learning pipeline using a real machine-learning library.
+
+However, the dataset was very small, and the test set contained only five observations. Therefore, the 80% accuracy is an early experimental result rather than evidence of reliable predictive performance. The 77.2% probability is also a model estimate, not a confirmed real-world probability.
+
+## 4. Key Learnings
+
+This project helped me develop practical experience in:
+
+- Framing a real  world question as a supervised binary classification problem.
+- Collecting and structuring data for machine learning.
+- Working with Pandas and Scikit-learn in Google Colab.
+- Separating training data from testing data.
+- Interpreting accuracy, precision, recall, and a confusion matrix.
+- Generating probability based predictions.
+- Recognising the limitations of small datasets and avoiding unsupported conclusions.
+
+An important lesson was that successfully training a model does not automatically make its predictions reliable. Data quality, feature relevance, sample size, and appropriate evaluation are essential to building useful machine-learning systems.
+
+## 5. Next Steps
+
+The next phase will focus on improving the experiment by:
+
+1. Validating the observations and correcting inconsistent or missing data.
+2. Collecting more observations from distinct, genuine situations.
+3. Removing features that provide no variation or useful predictive information.
+4. Comparing Logistic Regression with a Decision Tree classifier.
+5. Evaluating performance more robustly as the dataset grows.
+6. Investigating whether the model's predicted probabilities are well calibrated.
+
+## Conclusion
+
+The Blue Nike Hat Predictor AI was my first end to end personal machine learning experiment. It gave me practical experience turning a simple behavioural question into a structured dataset, training a classifier, evaluating its predictions, and identifying opportunities for improvement.
+
+The project represents an early step in my development as a machine learning practitioner, with an emphasis on understanding the process rather than simply producing code that runs.
+
 ###  Project Repository
 
 [View my FlyRank ML Internship repository](https://github.com/emazarchie-cpu/Emmanuel-Archibong-ML-Intern)
