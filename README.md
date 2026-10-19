@@ -225,9 +225,11 @@ The Blue Nike Hat Predictor AI was my first end to end personal machine learning
 
 The project represents an early step in my development as a machine learning practitioner, with an emphasis on understanding the process rather than simply producing code that runs.
 
-###  Project Repository
+###  ProjectS Repository
 
 [View my FlyRank ML Internship repository](https://github.com/emazarchie-cpu/Emmanuel-Archibong-ML-Intern)
+
+[View my Personal ML repository](https://github.com/emazarchie-cpu/emazarchie.github.io)
 
 ## Skills I'm Developing
 
@@ -248,7 +250,9 @@ I don't want to rely on AI without understanding what it produces. My goal is to
 
 ##  Connect With Me
 
-- **GitHub:** [Explore my repositories](https://github.com/emazarchie-cpu/Emmanuel-Archibong-ML-Intern)
+- **GitHub:** [Explore my FLyrank -ML repositories](https://github.com/emazarchie-cpu/Emmanuel-Archibong-ML-Intern)
+- [Explore my Personal -ML repositories](https://github.com/emazarchie-cpu/emazarchie.github.io)
+
 - **LinkedIn:** www.linkedin.com/in/emmanuel-archibong-342120212
 - **Email:** emazarchie@gmail.com
 
