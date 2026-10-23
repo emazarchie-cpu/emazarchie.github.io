@@ -382,6 +382,31 @@ Presents information about the model and its predictive performance.
 **About the Model**
 
 Documents the underlying approach, algorithm, and selected features.
+Application Screenshots
+
+1. GymPulse AI Dashboard
+
+The dashboard provides an overview of the application and its member-retention workflow.
+
+
+
+2. Member Assessment
+
+The Member Assessment interface allows gym operators to enter membership and engagement information before generating an individual cancellation-risk assessment.
+
+
+
+3. Model Insights
+
+The Model Insights interface lets users explore how the model's estimated outputs respond to changes in member-related inputs.
+
+
+
+4. Dashboard — Additional View
+
+An additional view of the GymPulse AI interface.
+
+
 
 The application is available at:
 
