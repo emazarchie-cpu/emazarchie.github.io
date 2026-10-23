@@ -224,7 +224,8 @@ The next phase will focus on improving the experiment by:
 The Blue Nike Hat Predictor AI was my first end to end personal machine learning experiment. It gave me practical experience turning a simple behavioural question into a structured dataset, training a classifier, evaluating its predictions, and identifying opportunities for improvement.
 
 The project represents an early step in my development as a machine learning practitioner, with an emphasis on understanding the process rather than simply producing code that runs.
-# GymPulse AI: Predicting Gym Member Cancellation Risk with Machine Learning
+
+# Case Study 4 GymPulse AI: Predicting Gym Member Cancellation Risk with Machine Learning
 
 **Project Type:** Applied Machine Learning | Predictive Analytics | AI Product Development  
 **Role:** AI/ML Developer & Product Builder  
